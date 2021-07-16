@@ -8,6 +8,12 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/Rantoryu/webapp.git
 ```
+
+Activate virtual environment:
+```bash
+.\Scripts\activate
+```
+
 Install the requirements:
 
 ```bash
