@@ -1,0 +1,650 @@
+[
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.230039522,
+          0.385322362
+        ],
+        [
+          0.311926186,
+          0.518803477
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "6e3e5333-19c2-4282-a69f-04df494079f4",
+      "name": "alkohol/piwo/Desperados/Desperados Piwo o smaku tequili puszka 500 ml",
+      "score": 0.996831477,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.0560788512,
+          0.381019503
+        ],
+        [
+          0.141056433,
+          0.523280859
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "787c7c8f-54fc-40f7-91f3-f81f26547715",
+      "name": "alkohol/piwo/Desperados/Desperados Red Piwo aromatyzowane puszka 500 ml",
+      "score": 0.994653821,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.309185028,
+          0.572204947
+        ],
+        [
+          0.393637896,
+          0.805487633
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "366c5859-bf90-4137-a805-f76a64eb5576",
+      "name": "alkohol/piwo/Zywiec/Zywiec APA Piwo jasne 500 ml",
+      "score": 0.993845224,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.140819177,
+          0.382757902
+        ],
+        [
+          0.230418429,
+          0.520613
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "787c7c8f-54fc-40f7-91f3-f81f26547715",
+      "name": "alkohol/piwo/Desperados/Desperados Red Piwo aromatyzowane puszka 500 ml",
+      "score": 0.993683934,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.598115206,
+          0.390877843
+        ],
+        [
+          0.669204473,
+          0.514624953
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "ef46e037-ac98-46be-a8de-fb4859564f03",
+      "name": "alkohol/piwo/Heineken/Heineken Piwo jasne puszka 500 ml",
+      "score": 0.993680656,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.311498255,
+          0.326569259
+        ],
+        [
+          0.388588548,
+          0.519726157
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "87230a69-bf74-47ec-80fa-2b662d798317",
+      "name": "alkohol/piwo/Desperados/Desperados Piwo o smaku tequili 400 ml",
+      "score": 0.991414249,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.456902027,
+          0.326108068
+        ],
+        [
+          0.532943368,
+          0.518743455
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "5a842733-30b1-4ccd-9e23-74c3fe4d3580",
+      "name": "alkohol/piwo/Desperados/Desperados Mojito Piwo aromatyzowane 400 ml",
+      "score": 0.991084337,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.659743,
+          0.571738422
+        ],
+        [
+          0.745768249,
+          0.798406482
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "7f7b8abb-062c-4154-9580-f37ff7d78195",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne bezalkoholowe 500 ml",
+      "score": 0.990462303,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.225210175,
+          0.574311793
+        ],
+        [
+          0.312513381,
+          0.806074262
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "b6f88a6b-9c31-4b38-a0fb-b40ec594d7df",
+      "name": "alkohol/piwo/Zywiec/Zywiec Biale Piwo pszeniczne 500 ml",
+      "score": 0.990072429,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.384490401,
+          0.325377226
+        ],
+        [
+          0.461682737,
+          0.520550728
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "6b227b6d-7a69-4b0a-a695-08f3cff28430",
+      "name": "alkohol/piwo/Desperados/Desperados Whisky Sour Piwo aromatyzowane 400 ml",
+      "score": 0.989998698,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.334970266,
+          0.844508052
+        ],
+        [
+          0.418218881,
+          0.985642552
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "fd91bce5-3196-4978-a115-58fad2639234",
+      "name": "alkohol/piwo/Warka/Warka Classic Piwo jasne puszka 500 ml",
+      "score": 0.989540339,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.74575603,
+          0.570560932
+        ],
+        [
+          0.828423619,
+          0.79386282
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "7f7b8abb-062c-4154-9580-f37ff7d78195",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne bezalkoholowe 500 ml",
+      "score": 0.988805771,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.752136767,
+          0.337332249
+        ],
+        [
+          0.831460059,
+          0.512985408
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "9de705cd-93ee-421b-8484-e9c8d9483fcc",
+      "name": "alkohol/piwo/Heineken/Heineken Piwo jasne bezalkoholowe 500 ml",
+      "score": 0.988585711,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.145065129,
+          0.57536149
+        ],
+        [
+          0.228404462,
+          0.80297482
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "47e1f63b-a8f5-4540-b231-8fd9597a6c04",
+      "name": "alkohol/piwo/Zywiec/Zywiec Sesyjne IPA Piwo jasne 500 ml",
+      "score": 0.98847115,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.415424198,
+          0.844860792
+        ],
+        [
+          0.49766022,
+          0.989721
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "fd91bce5-3196-4978-a115-58fad2639234",
+      "name": "alkohol/piwo/Warka/Warka Classic Piwo jasne puszka 500 ml",
+      "score": 0.988459051,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.0620216765,
+          0.574959755
+        ],
+        [
+          0.149328962,
+          0.793934047
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "724c46d1-e7e3-448b-bb05-f0557975d0ea",
+      "name": "alkohol/piwo/Zywiec/Zywiec Porter Piwo ciemne 500 ml",
+      "score": 0.986551702,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.39118278,
+          0.573715508
+        ],
+        [
+          0.476815373,
+          0.797900617
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "b7a6e38f-8102-485c-99f0-5d0656d5f2ba",
+      "name": "alkohol/piwo/Warka/Warka Classic Piwo jasne 500 ml",
+      "score": 0.986541629,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.751791716,
+          0.845317662
+        ],
+        [
+          0.830477118,
+          0.981756449
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "80a28627-93df-4693-8344-3c9cb6d45793",
+      "name": "alkohol/piwo/Warka/Warka Radler Ciemne piwo bezalkoholowe z lemoniada o smaku cytrusowym puszka 500 ml",
+      "score": 0.985865235,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.514767647,
+          0.847218633
+        ],
+        [
+          0.58302331,
+          0.979723513
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "f0c7190f-5ce1-46eb-9e45-830af0500648",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne bezalkoholowe puszka 500 ml",
+      "score": 0.984884739,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.24284412,
+          0.846054435
+        ],
+        [
+          0.330040932,
+          0.979284286
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1b26b153-acab-4912-8f9b-996e1f475b64",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne puszka 500 ml",
+      "score": 0.984641314,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.529632449,
+          0.327582538
+        ],
+        [
+          0.5948596,
+          0.514450908
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "4a2b0fe2-0f2a-4a89-b932-81f8591e4361",
+      "name": "alkohol/piwo/Desperados/Desperados Red Piwo aromatyzowane 400 ml",
+      "score": 0.983859956,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.473248184,
+          0.572710752
+        ],
+        [
+          0.557920516,
+          0.798836112
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.983677149,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.556221902,
+          0.570066094
+        ],
+        [
+          0.639331341,
+          0.796513438
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.977865338,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.67395556,
+          0.334308714
+        ],
+        [
+          0.753899455,
+          0.51552856
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "3c2a9837-f2a5-496d-a3dc-4372cb57ca61",
+      "name": "alkohol/piwo/Heineken/Heineken Piwo jasne 500 ml",
+      "score": 0.975352585,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.594194114,
+          0.846283674
+        ],
+        [
+          0.678356647,
+          0.989725947
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "80a28627-93df-4693-8344-3c9cb6d45793",
+      "name": "alkohol/piwo/Warka/Warka Radler Ciemne piwo bezalkoholowe z lemoniada o smaku cytrusowym puszka 500 ml",
+      "score": 0.901239097,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.0617775656,
+          0.848048568
+        ],
+        [
+          0.23070918,
+          0.996549666
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "81b06589-570f-4737-a864-6ac5a11314ed",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne puszka 4 x 500 ml",
+      "score": 0.869504571,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.676161945,
+          0.845351517
+        ],
+        [
+          0.752189279,
+          0.985221684
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "88c938b4-fb62-4977-b4d2-ff853c9d7486",
+      "name": "alkohol/piwo/Warka/Warka Radler Piwo bezalkoholowe z lemoniada o smaku grejpfruta i pomaranczy puszka 500 ml",
+      "score": 0.775321841,
+      "tags": {},
+      "properties": {}
+    }
+  }
+]

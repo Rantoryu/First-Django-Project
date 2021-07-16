@@ -1,0 +1,26 @@
+{% extends 'headerPage.html' %}
+
+{% block content%}
+
+<h2>Upload Image for Classification:</h2>
+   
+<br>
+   
+<form method="post" enctype="multipart/form-data" action="predictImage">
+
+ {% csrf_token %}
+ <center>
+ <div class="col-md-10 col-sm-10"><label>Upload a file:</label> </div> <input name="filePath" type="file"><br>
+<input type="submit" value="Submit" ></div></center>
+
+<center> 
+ <h2>Classification from imageNet model: {{predictedLabel}}</h2>
+ <img src={{filePathName}} alt='imagename'>
+ 
+<br><br> {{filePathName}}
+</center>
+</form>
+<br>
+
+
+{% endblock %}

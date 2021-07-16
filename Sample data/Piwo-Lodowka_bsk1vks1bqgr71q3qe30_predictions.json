@@ -1,0 +1,2330 @@
+[
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.546694934,
+          0.135276541
+        ],
+        [
+          0.587287545,
+          0.252675384
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "768d85a1-cfc9-4cae-bc8a-9b8eb52268cc",
+      "name": "alkohol/piwo/Zywiec/Zywiec Wiedenski Lager 500 ml",
+      "score": 0.998422623,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.563474596,
+          0.327358
+        ],
+        [
+          0.652109265,
+          0.402058274
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "4cf990bd-5da9-4f1c-a9c0-7cf5bf563624",
+      "name": "alkohol/piwo/Warka/Warka Radler 3,5% Jablko z Gruszka puszka 4 x 500 ml",
+      "score": 0.997013807,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.849087715,
+          0.424343795
+        ],
+        [
+          0.895261943,
+          0.532720268
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "4efa7b73-c529-46ea-9375-e52d270a70d7",
+      "name": "alkohol/piwo/Warka/Warka Radler Piwo z lemoniada o smaku czarnej porzeczki z limonka 500 ml",
+      "score": 0.996676683,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.388587207,
+          0.326276213
+        ],
+        [
+          0.478104591,
+          0.402740628
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "81b06589-570f-4737-a864-6ac5a11314ed",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne puszka 4 x 500 ml",
+      "score": 0.996453047,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.172131613,
+          0.429745495
+        ],
+        [
+          0.22640647,
+          0.548223913
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "0a77639c-ec59-4e18-bb3c-cb301fe96a84",
+      "name": "alkohol/piwo/Brackie/Brackie Pils Piwo jasne 500 ml",
+      "score": 0.996343493,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.259250939,
+          0.138716251
+        ],
+        [
+          0.309852,
+          0.248893216
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "366c5859-bf90-4137-a805-f76a64eb5576",
+      "name": "alkohol/piwo/Zywiec/Zywiec APA Piwo jasne 500 ml",
+      "score": 0.996272087,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.308659047,
+          0.139601395
+        ],
+        [
+          0.355595171,
+          0.249515817
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "b89a9500-d908-4603-8774-5e17be61ea9c",
+      "name": "alkohol/piwo/Zywiec/Zywiec Belgijskie ALE 500 ml",
+      "score": 0.996163845,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.58621645,
+          0.136869118
+        ],
+        [
+          0.634163857,
+          0.254081964
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "dc102268-8f71-4417-96cc-1d3fb195943e",
+      "name": "alkohol/piwo/Zywiec/Zywiec Pszeniczne IPA 500 ml",
+      "score": 0.9957636,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.225597173,
+          0.42990917
+        ],
+        [
+          0.276801825,
+          0.546664774
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "0a77639c-ec59-4e18-bb3c-cb301fe96a84",
+      "name": "alkohol/piwo/Brackie/Brackie Pils Piwo jasne 500 ml",
+      "score": 0.995396733,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.0964036807,
+          0.118523642
+        ],
+        [
+          0.150304809,
+          0.24736096
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "724c46d1-e7e3-448b-bb05-f0557975d0ea",
+      "name": "alkohol/piwo/Zywiec/Zywiec Porter Piwo ciemne 500 ml",
+      "score": 0.995064735,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.275245458,
+          0.42906478
+        ],
+        [
+          0.324450403,
+          0.545618057
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "0a77639c-ec59-4e18-bb3c-cb301fe96a84",
+      "name": "alkohol/piwo/Brackie/Brackie Pils Piwo jasne 500 ml",
+      "score": 0.994677663,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.800374568,
+          0.685104311
+        ],
+        [
+          0.841488659,
+          0.786180735
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.99462676,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.763135552,
+          0.685165107
+        ],
+        [
+          0.80202049,
+          0.786536813
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.994212151,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.120623901,
+          0.430085778
+        ],
+        [
+          0.17429629,
+          0.549812257
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "0a77639c-ec59-4e18-bb3c-cb301fe96a84",
+      "name": "alkohol/piwo/Brackie/Brackie Pils Piwo jasne 500 ml",
+      "score": 0.994184732,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.24811393,
+          0.70505929
+        ],
+        [
+          0.287406385,
+          0.81215781
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.993770242,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.141511858,
+          0.00137514051
+        ],
+        [
+          0.193825901,
+          0.0733299628
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "6b227b6d-7a69-4b0a-a695-08f3cff28430",
+      "name": "alkohol/piwo/Desperados/Desperados Whisky Sour Piwo aromatyzowane 400 ml",
+      "score": 0.99368012,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.637299895,
+          0.597743511
+        ],
+        [
+          0.681533933,
+          0.672587872
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "fd91bce5-3196-4978-a115-58fad2639234",
+      "name": "alkohol/piwo/Warka/Warka Classic Piwo jasne puszka 500 ml",
+      "score": 0.993669629,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.286991358,
+          0.709374905
+        ],
+        [
+          0.329848051,
+          0.826173484
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.993573129,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.300970584,
+          0.325739026
+        ],
+        [
+          0.388737649,
+          0.404904395
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "81b06589-570f-4737-a864-6ac5a11314ed",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne puszka 4 x 500 ml",
+      "score": 0.993563235,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.545285761,
+          0.712496281
+        ],
+        [
+          0.588223815,
+          0.834185958
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.993453562,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.137391448,
+          0.594238639
+        ],
+        [
+          0.232742324,
+          0.690226316
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "8d9d3302-dae0-4738-9aba-974d4dbc11dc",
+      "name": "alkohol/piwo/Brackie/Brackie Pils Piwo jasne puszka 4 x 500 ml",
+      "score": 0.993372381,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.585235238,
+          0.711351395
+        ],
+        [
+          0.627445579,
+          0.830657244
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.993259966,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.148543626,
+          0.123847306
+        ],
+        [
+          0.203200951,
+          0.24675402
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "724c46d1-e7e3-448b-bb05-f0557975d0ea",
+      "name": "alkohol/piwo/Zywiec/Zywiec Porter Piwo ciemne 500 ml",
+      "score": 0.993259192,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.620761931,
+          0.427052438
+        ],
+        [
+          0.664042175,
+          0.535578549
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "b7a6e38f-8102-485c-99f0-5d0656d5f2ba",
+      "name": "alkohol/piwo/Warka/Warka Classic Piwo jasne 500 ml",
+      "score": 0.992990613,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.652337968,
+          0.326832175
+        ],
+        [
+          0.733168721,
+          0.403490037
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "4cf990bd-5da9-4f1c-a9c0-7cf5bf563624",
+      "name": "alkohol/piwo/Warka/Warka Radler 3,5% Jablko z Gruszka puszka 4 x 500 ml",
+      "score": 0.99287349,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.321675807,
+          0.42944473
+        ],
+        [
+          0.370401382,
+          0.544288
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "0a77639c-ec59-4e18-bb3c-cb301fe96a84",
+      "name": "alkohol/piwo/Brackie/Brackie Pils Piwo jasne 500 ml",
+      "score": 0.992827117,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.543696284,
+          0.428954393
+        ],
+        [
+          0.579547167,
+          0.537620068
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "b7a6e38f-8102-485c-99f0-5d0656d5f2ba",
+      "name": "alkohol/piwo/Warka/Warka Classic Piwo jasne 500 ml",
+      "score": 0.992565155,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.389207333,
+          0.595819473
+        ],
+        [
+          0.478965938,
+          0.679560542
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1ea3b9f5-6194-45b1-9e7d-0090516f5cf3",
+      "name": "alkohol/piwo/Warka/Warka Strong Piwo jasne puszka 4 x 500 ml",
+      "score": 0.992541552,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.719747543,
+          0.584786057
+        ],
+        [
+          0.804094732,
+          0.670140147
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "9eec264a-93b6-46e3-b96e-bef89c5445ff",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne puszka 4 x 500 ml",
+      "score": 0.992516041,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.727080584,
+          0.688023865
+        ],
+        [
+          0.764734447,
+          0.788042128
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.992343366,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.627400041,
+          0.700172901
+        ],
+        [
+          0.663334608,
+          0.813360929
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.992004216,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.204041615,
+          0.706721
+        ],
+        [
+          0.249361143,
+          0.81521678
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.99198252,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.579510033,
+          0.42678383
+        ],
+        [
+          0.62205863,
+          0.536171556
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "b7a6e38f-8102-485c-99f0-5d0656d5f2ba",
+      "name": "alkohol/piwo/Warka/Warka Classic Piwo jasne 500 ml",
+      "score": 0.991980672,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.19264473,
+          0.0
+        ],
+        [
+          0.238816872,
+          0.0760570914
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "6b227b6d-7a69-4b0a-a695-08f3cff28430",
+      "name": "alkohol/piwo/Desperados/Desperados Whisky Sour Piwo aromatyzowane 400 ml",
+      "score": 0.991566241,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.663098276,
+          0.426863074
+        ],
+        [
+          0.708137,
+          0.536582351
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "b7a6e38f-8102-485c-99f0-5d0656d5f2ba",
+      "name": "alkohol/piwo/Warka/Warka Classic Piwo jasne 500 ml",
+      "score": 0.991561592,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.479940265,
+          0.59165287
+        ],
+        [
+          0.559957206,
+          0.676937521
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "cb270ff4-c5bd-4958-ab9d-3091033d0499",
+      "name": "alkohol/piwo/Warka/Warka Piwo jasne puszka 4 x 500 ml",
+      "score": 0.990953803,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.803783298,
+          0.582113564
+        ],
+        [
+          0.878043413,
+          0.666032791
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "9eec264a-93b6-46e3-b96e-bef89c5445ff",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne puszka 4 x 500 ml",
+      "score": 0.9906708,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.159529641,
+          0.708341599
+        ],
+        [
+          0.205645949,
+          0.816856
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.990639508,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.462446809,
+          0.428104728
+        ],
+        [
+          0.509694219,
+          0.539730132
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1ff9c848-d1dc-4f50-b2fe-927328ccf604",
+      "name": "alkohol/piwo/Warka/Warka Strong Piwo jasne 500 ml",
+      "score": 0.990440845,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.416117936,
+          0.428266019
+        ],
+        [
+          0.46372968,
+          0.543825746
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1ff9c848-d1dc-4f50-b2fe-927328ccf604",
+      "name": "alkohol/piwo/Warka/Warka Strong Piwo jasne 500 ml",
+      "score": 0.990359306,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.408183128,
+          0.717829108
+        ],
+        [
+          0.453298301,
+          0.840465784
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.990334749,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.452112675,
+          0.715541
+        ],
+        [
+          0.49745506,
+          0.836373568
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.990083575,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.328677177,
+          0.710199416
+        ],
+        [
+          0.365711153,
+          0.826377034
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.989937782,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.282089442,
+          0.0
+        ],
+        [
+          0.332193911,
+          0.0788397864
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "5a842733-30b1-4ccd-9e23-74c3fe4d3580",
+      "name": "alkohol/piwo/Desperados/Desperados Mojito Piwo aromatyzowane 400 ml",
+      "score": 0.989679575,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.36504066,
+          0.717317879
+        ],
+        [
+          0.409214914,
+          0.841259539
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.989183426,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.233185858,
+          0.590350866
+        ],
+        [
+          0.322103,
+          0.684385359
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "8d9d3302-dae0-4738-9aba-974d4dbc11dc",
+      "name": "alkohol/piwo/Brackie/Brackie Pils Piwo jasne puszka 4 x 500 ml",
+      "score": 0.988716125,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.368528783,
+          0.428115547
+        ],
+        [
+          0.416746646,
+          0.542296588
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1ff9c848-d1dc-4f50-b2fe-927328ccf604",
+      "name": "alkohol/piwo/Warka/Warka Strong Piwo jasne 500 ml",
+      "score": 0.988685131,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.560970187,
+          0.590788782
+        ],
+        [
+          0.638118148,
+          0.674003065
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "cb270ff4-c5bd-4958-ab9d-3091033d0499",
+      "name": "alkohol/piwo/Warka/Warka Piwo jasne puszka 4 x 500 ml",
+      "score": 0.988570571,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.120195016,
+          0.324528724
+        ],
+        [
+          0.214975297,
+          0.40079987
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "697adf94-e320-49f0-bc14-4328cc2d35fc",
+      "name": "alkohol/piwo/Desperados/Desperados Piwo o smaku tequili puszka 4 x 500 ml",
+      "score": 0.987769961,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.702193379,
+          0.69104743
+        ],
+        [
+          0.727643192,
+          0.789738715
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.987662792,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.716387749,
+          0.1509009
+        ],
+        [
+          0.76130563,
+          0.255698591
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.987282157,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.805096626,
+          0.325415283
+        ],
+        [
+          0.894045234,
+          0.400394648
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "4cf990bd-5da9-4f1c-a9c0-7cf5bf563624",
+      "name": "alkohol/piwo/Warka/Warka Radler 3,5% Jablko z Gruszka puszka 4 x 500 ml",
+      "score": 0.98700732,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.495900661,
+          0.71025908
+        ],
+        [
+          0.521021545,
+          0.819289267
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.986887455,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.759708762,
+          0.152580142
+        ],
+        [
+          0.803255081,
+          0.255796075
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.986654401,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.663844585,
+          0.695847929
+        ],
+        [
+          0.707169175,
+          0.810572207
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "bf9f42e6-c9d3-46d5-a8cf-df0680722a18",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne 500 ml",
+      "score": 0.986564875,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.80288744,
+          0.424315035
+        ],
+        [
+          0.849181533,
+          0.533472419
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "79b77983-6826-40b1-a875-b9987f717fc8",
+      "name": "alkohol/piwo/Warka/Warka Radler 3,5% Jablko z Gruszka 500 ml",
+      "score": 0.986478806,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.803426743,
+          0.152523965
+        ],
+        [
+          0.848124743,
+          0.25494504
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.986441612,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.44684723,
+          0.154765949
+        ],
+        [
+          0.489908576,
+          0.251469672
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "47e1f63b-a8f5-4540-b231-8fd9597a6c04",
+      "name": "alkohol/piwo/Zywiec/Zywiec Sesyjne IPA Piwo jasne 500 ml",
+      "score": 0.986133575,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.205212176,
+          0.138233885
+        ],
+        [
+          0.25999409,
+          0.248094961
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "366c5859-bf90-4137-a805-f76a64eb5576",
+      "name": "alkohol/piwo/Zywiec/Zywiec APA Piwo jasne 500 ml",
+      "score": 0.986043215,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.337306947,
+          0.600003719
+        ],
+        [
+          0.384830177,
+          0.681693435
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "fdcf5200-5ab1-4711-91ce-78f492c7cf4f",
+      "name": "alkohol/piwo/Warka/Warka Strong Piwo jasne puszka 500 ml",
+      "score": 0.984988809,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.354199886,
+          0.132894933
+        ],
+        [
+          0.402925134,
+          0.252686024
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "b89a9500-d908-4603-8774-5e17be61ea9c",
+      "name": "alkohol/piwo/Zywiec/Zywiec Belgijskie ALE 500 ml",
+      "score": 0.984842539,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.759669304,
+          0.425545514
+        ],
+        [
+          0.803510666,
+          0.537699819
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "02900da5-2404-4c70-bf58-d75d9df52127",
+      "name": "alkohol/piwo/Warka/Warka Radler 3,5% Malina z Cytrusami 500 ml",
+      "score": 0.984339,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.656306565,
+          0.00235138554
+        ],
+        [
+          0.699546754,
+          0.0881087929
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "2b88a213-01de-413f-abba-4e63dc8a5a78",
+      "name": "box",
+      "score": 0.984136224,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.699106,
+          0.00439229282
+        ],
+        [
+          0.744673,
+          0.0901631
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "2b88a213-01de-413f-abba-4e63dc8a5a78",
+      "name": "box",
+      "score": 0.983738184,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.789687216,
+          0.00932733528
+        ],
+        [
+          0.83555609,
+          0.0916664
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "2b88a213-01de-413f-abba-4e63dc8a5a78",
+      "name": "box",
+      "score": 0.982483864,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.745005727,
+          0.00624363916
+        ],
+        [
+          0.791565418,
+          0.0912734121
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "2b88a213-01de-413f-abba-4e63dc8a5a78",
+      "name": "box",
+      "score": 0.982383728,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.677306,
+          0.148628652
+        ],
+        [
+          0.717120409,
+          0.256477684
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.98210448,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.476698309,
+          0.326525867
+        ],
+        [
+          0.557490945,
+          0.402004808
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "81b06589-570f-4737-a864-6ac5a11314ed",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne puszka 4 x 500 ml",
+      "score": 0.981849074,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.237725288,
+          6.96344505e-05
+        ],
+        [
+          0.282931834,
+          0.0772481114
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "5a842733-30b1-4ccd-9e23-74c3fe4d3580",
+      "name": "alkohol/piwo/Desperados/Desperados Mojito Piwo aromatyzowane 400 ml",
+      "score": 0.980382442,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.868364394,
+          0.139231369
+        ],
+        [
+          0.917245626,
+          0.256639779
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.980178714,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.611575365,
+          0.00143741211
+        ],
+        [
+          0.657662511,
+          0.0876887143
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "2b88a213-01de-413f-abba-4e63dc8a5a78",
+      "name": "box",
+      "score": 0.979396939,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.632988453,
+          0.1386922
+        ],
+        [
+          0.679163158,
+          0.255519331
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "b6f88a6b-9c31-4b38-a0fb-b40ec594d7df",
+      "name": "alkohol/piwo/Zywiec/Zywiec Biale Piwo pszeniczne 500 ml",
+      "score": 0.977951169,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.403784394,
+          0.152717561
+        ],
+        [
+          0.446474791,
+          0.252619952
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "47e1f63b-a8f5-4540-b231-8fd9597a6c04",
+      "name": "alkohol/piwo/Zywiec/Zywiec Sesyjne IPA Piwo jasne 500 ml",
+      "score": 0.977830768,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.452572286,
+          0.000659728306
+        ],
+        [
+          0.494592577,
+          0.084071584
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "87230a69-bf74-47ec-80fa-2b662d798317",
+      "name": "alkohol/piwo/Desperados/Desperados Piwo o smaku tequili 400 ml",
+      "score": 0.977370143,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.33034566,
+          0.0
+        ],
+        [
+          0.374672,
+          0.0794425532
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "2b88a213-01de-413f-abba-4e63dc8a5a78",
+      "name": "box",
+      "score": 0.972512364,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.56613338,
+          0.000861724198
+        ],
+        [
+          0.613402963,
+          0.0875355601
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "2b88a213-01de-413f-abba-4e63dc8a5a78",
+      "name": "box",
+      "score": 0.972114921,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.412968785,
+          0.0
+        ],
+        [
+          0.453053534,
+          0.0840421915
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "87230a69-bf74-47ec-80fa-2b662d798317",
+      "name": "alkohol/piwo/Desperados/Desperados Piwo o smaku tequili 400 ml",
+      "score": 0.968972564,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.734847248,
+          0.331612051
+        ],
+        [
+          0.775379896,
+          0.400729716
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "65fca19e-deaf-4fbc-b179-47c2a945a175",
+      "name": "alkohol/piwo/Warka/Warka Radler 3,5% Malina z Cytrusami puszka 500 ml",
+      "score": 0.968062639,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.679864466,
+          0.587878585
+        ],
+        [
+          0.716839969,
+          0.670199037
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "9eec264a-93b6-46e3-b96e-bef89c5445ff",
+      "name": "alkohol/piwo/Tatra/Tatra Piwo jasne pelne puszka 4 x 500 ml",
+      "score": 0.964635193,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.834383,
+          0.0118946256
+        ],
+        [
+          0.882492423,
+          0.093192324
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "3c2a9837-f2a5-496d-a3dc-4372cb57ca61",
+      "name": "alkohol/piwo/Heineken/Heineken Piwo jasne 500 ml",
+      "score": 0.964172184,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.881520391,
+          0.0113742007
+        ],
+        [
+          0.931303,
+          0.0950854048
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "3c2a9837-f2a5-496d-a3dc-4372cb57ca61",
+      "name": "alkohol/piwo/Heineken/Heineken Piwo jasne 500 ml",
+      "score": 0.962056756,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.0894496217,
+          9.51194597e-05
+        ],
+        [
+          0.14180541,
+          0.0733779594
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1974302a-4d44-40be-98a5-421c9d7906de",
+      "name": "alkohol/piwo/Desperados/Desperados Lime Piwo aromatyzowane 400 ml",
+      "score": 0.955719709,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.707992792,
+          0.425668269
+        ],
+        [
+          0.738056183,
+          0.533062637
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "7db3febe-6644-4fea-bad2-35c0c4e72226",
+      "name": "alkohol/piwo/Warka/Warka Radler 3,5% Cytryna 500 ml",
+      "score": 0.938253522,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.229778767,
+          0.326289624
+        ],
+        [
+          0.298478454,
+          0.402225494
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "697adf94-e320-49f0-bc14-4328cc2d35fc",
+      "name": "alkohol/piwo/Desperados/Desperados Piwo o smaku tequili puszka 4 x 500 ml",
+      "score": 0.934890389,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.778617322,
+          0.330675483
+        ],
+        [
+          0.810794055,
+          0.399179697
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "0ff2abbb-5c79-43f7-99e5-a0ff8794a684",
+      "name": "alkohol/piwo/Warka/Warka Radler 3,5% Jablko z Gruszka puszka 500 ml",
+      "score": 0.910446286,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.848958254,
+          0.152339339
+        ],
+        [
+          0.877312541,
+          0.254484445
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.907203317,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.490728468,
+          0.150974855
+        ],
+        [
+          0.513412416,
+          0.253327757
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "47e1f63b-a8f5-4540-b231-8fd9597a6c04",
+      "name": "alkohol/piwo/Zywiec/Zywiec Sesyjne IPA Piwo jasne 500 ml",
+      "score": 0.833330333,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.545606494,
+          0.000106720108
+        ],
+        [
+          0.567912102,
+          0.0860267356
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "2b88a213-01de-413f-abba-4e63dc8a5a78",
+      "name": "box",
+      "score": 0.830831289,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.37494719,
+          0.00317538809
+        ],
+        [
+          0.413993329,
+          0.0814928934
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "4a2b0fe2-0f2a-4a89-b932-81f8591e4361",
+      "name": "alkohol/piwo/Desperados/Desperados Red Piwo aromatyzowane 400 ml",
+      "score": 0.816668868,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.715325356,
+          0.218058124
+        ],
+        [
+          0.761304498,
+          0.25498879
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.811886489,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.804456055,
+          0.218194276
+        ],
+        [
+          0.851694,
+          0.255086541
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.809248149,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.6780864,
+          0.218182683
+        ],
+        [
+          0.717664361,
+          0.254650891
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.791840553,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.760251343,
+          0.218297705
+        ],
+        [
+          0.803791046,
+          0.253413051
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.781550169,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.214802608,
+          0.330315888
+        ],
+        [
+          0.261874,
+          0.397457778
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "6e3e5333-19c2-4282-a69f-04df494079f4",
+      "name": "alkohol/piwo/Desperados/Desperados Piwo o smaku tequili puszka 500 ml",
+      "score": 0.777680039,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.73144412,
+          0.428092331
+        ],
+        [
+          0.762133598,
+          0.531900167
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "02900da5-2404-4c70-bf58-d75d9df52127",
+      "name": "alkohol/piwo/Warka/Warka Radler 3,5% Malina z Cytrusami 500 ml",
+      "score": 0.69841361,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.291486382,
+          0.140210077
+        ],
+        [
+          0.311043262,
+          0.252247959
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "366c5859-bf90-4137-a805-f76a64eb5576",
+      "name": "alkohol/piwo/Zywiec/Zywiec APA Piwo jasne 500 ml",
+      "score": 0.642758965,
+      "tags": {},
+      "properties": {}
+    }
+  },
+  {
+    "__class_type__": "wise_geometry.objects.objects.Object",
+    "shape": {
+      "__class_type__": "wise_geometry.shapes.rectangle.Rectangle",
+      "_coords": [
+        [
+          0.87102133,
+          0.217749506
+        ],
+        [
+          0.917815447,
+          0.255337477
+        ]
+      ]
+    },
+    "description": {
+      "__class_type__": "wise_geometry.adapters.labelimg.LabelimgDescription",
+      "uuid": "1f94e341-9813-4a80-9a51-8e194b95ab42",
+      "name": "alkohol/piwo/Zywiec/Zywiec Piwo jasne 500 ml",
+      "score": 0.604974389,
+      "tags": {},
+      "properties": {}
+    }
+  }
+]
