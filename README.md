@@ -17,7 +17,7 @@ Activate virtual environment:
 Install the requirements:
 
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 
 Apply the migrations:
